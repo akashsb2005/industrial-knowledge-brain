@@ -1,0 +1,38 @@
+THE FACTORIES ACT 1948 - KEY SAFETY PROVISIONS
+
+SECTION 7A - GENERAL DUTIES OF OCCUPIER
+Every occupier shall ensure:
+- Plant and systems of work are safe and without risks to health
+- Arrangements for safe use, handling, storage of substances
+- Provision of information, instruction, training and supervision
+- Maintenance of workplace in safe condition
+
+SECTION 13 - VENTILATION
+Every factory must be adequately ventilated with fresh air.
+Confined spaces require forced ventilation before worker entry.
+Gas concentration must be tested before confined space entry.
+
+SECTION 21 - FENCING OF MACHINERY
+All dangerous machinery must be securely fenced.
+Moving parts of machinery must not be accessible during operation.
+Maintenance on moving machinery strictly prohibited without lockout.
+
+SECTION 36 - PRECAUTIONS AGAINST DANGEROUS FUMES
+No person shall enter any chamber, tank, vat, pit, pipe, flue or other
+confined space in any factory in which any gas, fume, vapour or dust
+is likely to be present unless:
+- Certificate of safety is issued by competent person
+- Worker wears suitable breathing apparatus
+- Standby person is present outside at all times
+- Rescue equipment is readily available
+
+SECTION 41B - SPECIFIC RESPONSIBILITIES OF OCCUPIER
+- Maintain written records of all hazardous processes
+- Appoint safety officers for factories with 1000+ workers
+- Conduct health surveillance of workers in hazardous areas
+- Submit annual safety audit report to inspector
+
+PENALTIES:
+- First violation: Up to 2 years imprisonment or Rs 2 lakh fine
+- Repeat violation: Up to 3 years imprisonment or Rs 3 lakh fine
+- Violation causing death: Up to 10 years imprisonment

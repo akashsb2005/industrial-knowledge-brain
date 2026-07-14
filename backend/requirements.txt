@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pdfplumber
+spacy
+langchain
+langchain-community
+langchain-groq
+chromadb
+sentence-transformers
+groq
+networkx
+python-dotenv
+python-multipart
+pypdf2

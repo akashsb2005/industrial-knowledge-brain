@@ -1,0 +1,36 @@
+OISD STANDARD 105 - WORK PERMIT SYSTEM
+
+1. INTRODUCTION
+A Permit to Work (PTW) system is a formal written system used to control certain types of work that are identified as potentially hazardous. It is an essential part of a safe system of work for high-risk industries like oil, gas, and manufacturing.
+
+2. TYPES OF WORK PERMITS
+- Hot Work Permit: Required for any work involving open flame, welding, cutting, grinding
+- Cold Work Permit: Required for non-spark generating maintenance activities
+- Confined Space Entry Permit: Required before entering vessels, tanks, pits
+- Electrical Work Permit: Required for work on live electrical equipment
+- Height Work Permit: Required for work above 2 meters
+
+3. PERMIT REQUIREMENTS
+- All permits must be signed by the Area Authority before work begins
+- Gas testing must be done before confined space entry
+- Fire extinguisher must be present during hot work
+- Permit must be displayed at work site at all times
+- Permit validity maximum 8 hours per shift
+
+4. RESPONSIBILITIES
+- Issuing Authority: Ensures area is safe, signs the permit
+- Performing Authority: Carries out the work safely
+- Safety Officer: Monitors compliance during work execution
+
+5. COMPLIANCE REQUIREMENTS
+- Violation of PTW system is punishable under Factories Act Section 7A
+- All permits must be archived for minimum 3 years
+- Annual audit of PTW system is mandatory
+- Non-compliance attracts penalties under OISD regulations
+
+6. EQUIPMENT SAFETY
+- Pump P-101: Requires cold work permit for maintenance
+- Compressor C-201: Requires hot work permit for welding
+- Vessel V-301: Requires confined space entry permit
+- Bearing replacement interval: Every 8000 operating hours
+- Seal replacement interval: Every 12000 operating hours

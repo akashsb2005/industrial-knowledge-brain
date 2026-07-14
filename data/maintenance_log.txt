@@ -1,0 +1,48 @@
+INDUSTRIAL PLANT MAINTENANCE LOG - UNIT 1
+
+EQUIPMENT: Pump P-101 (Centrifugal Feed Pump)
+Location: Unit 1, Bay 3
+Installed: January 2020
+
+MAINTENANCE HISTORY:
+1. Work Order #1201 - Date: 15-March-2021
+   Issue: Bearing overheating, vibration detected
+   Action: Bearing replaced, alignment checked
+   Technician: Rajan Kumar
+   Downtime: 6 hours
+
+2. Work Order #2453 - Date: 22-August-2022
+   Issue: Seal failure, oil leakage
+   Action: Mechanical seal replaced
+   Technician: Suresh Nair
+   Downtime: 8 hours
+
+3. Work Order #4521 - Date: 12-March-2024
+   Issue: Bearing wear, noise increase
+   Action: Bearing replaced, lubrication system checked
+   Technician: Mohan Das
+   Downtime: 5 hours
+   Current Hours: 9200 hours
+   WARNING: OVERDUE - bearing interval is 8000 hours
+
+EQUIPMENT: Compressor C-201
+Location: Unit 2, Bay 1
+Installed: March 2019
+
+MAINTENANCE HISTORY:
+1. Work Order #3301 - Date: 10-January-2023
+   Issue: Valve leakage detected during inspection
+   Action: Suction valve replaced
+   Technician: Anil Sharma
+   Downtime: 12 hours
+
+INCIDENT RECORDS:
+- Near Miss #001 - Date: 05-June-2023
+  Location: Unit 1 Bay 3
+  Description: Worker entered pump area without PTW
+  Action: Retraining conducted, PTW process reinforced
+
+- Incident #002 - Date: 18-September-2023
+  Location: Unit 2 Bay 1
+  Description: Minor gas leak from compressor seal
+  Action: Emergency shutdown, seal replaced, area ventilated
