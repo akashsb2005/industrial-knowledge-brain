@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=120&section=header&text=Industrial%20Knowledge%20Brain&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=AI-Powered%20Unified%20Asset%20%26%20Operations%20Intelligence&descAlignY=62&descColor=ffffff&descSize=14" width="100%"/>
+![Header Image](https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=120&section=header&text=Industrial%20Knowledge%20Brain&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=AI-Powered%20Unified%20Asset%20and%20Operations%20Intelligence&descAlignY=62&descColor=ffffff&descSize=14&v=1)
 
 <br/>
 
